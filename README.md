@@ -1,6 +1,6 @@
 # 00vaccine-data-analysis
 ### This project contains code for the following preprint papers.
-### The authors are independent researchers and intent to stay anonymous on this work.
+The authors are independent researchers and intent to stay anonymous on this work.
 
 # Paper 1
 SakuraDataAnalyst. “England Mortality Data Suggests Covid Vaccination Elevating All-cause Mortality Months Later.” OSF Preprints, 15 Feb. 2023. Web.
