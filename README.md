@@ -16,4 +16,5 @@ SakuraDataAnalyst. “Worldwide Big Data Analysis Suggests COVID Vaccination Ele
 ### Link: 
 https://osf.io/rczfu 
 ### Code: 
-world_vax_covid_death_ex_death_modeling_final.ipynb
+world_vax_covid_death_ex_death_modeling_final.ipynb (no data Shuffle conducted)
+world_vax_covid_death_ex_death_modeling_final-Shuffle.ipynb (With Shuffle)
